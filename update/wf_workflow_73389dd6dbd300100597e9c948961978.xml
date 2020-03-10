@@ -66,7 +66,7 @@
         <vars/>
     </wf_workflow>
     <wf_activity action="INSERT_OR_UPDATE">
-        <activity_definition display_value="タスクの作成">9f4d1be5c0a8016400043d34ce066316</activity_definition>
+        <activity_definition display_value="Create Task">9f4d1be5c0a8016400043d34ce066316</activity_definition>
         <activity_definition_updated>false</activity_definition_updated>
         <databus_lookup_id>6</databus_lookup_id>
         <height/>
@@ -780,7 +780,7 @@ answer = 0;</value>
         <sys_updated_on>2020-03-06 09:18:58</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
-        <activity_definition display_value="承認 - ユーザー">35433da80a0a029a0028c639a1e51eb4</activity_definition>
+        <activity_definition display_value="Approval - User">35433da80a0a029a0028c639a1e51eb4</activity_definition>
         <activity_definition_updated>false</activity_definition_updated>
         <databus_lookup_id>3</databus_lookup_id>
         <height/>
@@ -1527,7 +1527,7 @@ answer = 0;</value>
         <sys_updated_on>2020-03-04 06:37:16</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
-        <activity_definition display_value="値の設定">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
+        <activity_definition display_value="Set Values">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
         <activity_definition_updated>false</activity_definition_updated>
         <databus_lookup_id>5</databus_lookup_id>
         <height/>
@@ -1605,7 +1605,7 @@ answer = 0;</value>
         <sys_updated_on>2020-03-04 06:45:06</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
-        <activity_definition display_value="値の設定">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
+        <activity_definition display_value="Set Values">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
         <activity_definition_updated>false</activity_definition_updated>
         <databus_lookup_id>4</databus_lookup_id>
         <height/>
@@ -1683,7 +1683,7 @@ answer = 0;</value>
         <sys_updated_on>2020-03-04 06:42:29</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
-        <activity_definition display_value="終了">c7a66f7d0a0a0b3a004544a6d2f14076</activity_definition>
+        <activity_definition display_value="End">c7a66f7d0a0a0b3a004544a6d2f14076</activity_definition>
         <activity_definition_updated>false</activity_definition_updated>
         <databus_lookup_id>2</databus_lookup_id>
         <height/>
@@ -1712,7 +1712,7 @@ answer = 0;</value>
     </wf_activity>
     <sys_variable_value action="delete_multiple" query="document_key=88489dd6dbd300100597e9c94896197a"/>
     <wf_activity action="INSERT_OR_UPDATE">
-        <activity_definition display_value="開始">c7a5e32c0a0a0b3a002377c24ed8ea76</activity_definition>
+        <activity_definition display_value="Begin">c7a5e32c0a0a0b3a002377c24ed8ea76</activity_definition>
         <activity_definition_updated>false</activity_definition_updated>
         <databus_lookup_id>1</databus_lookup_id>
         <height/>
